@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=aadityaa-23&color=blue)
 ### Hi there 👋
 
 <!--
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=aadityaa-23&color=blue)
+
