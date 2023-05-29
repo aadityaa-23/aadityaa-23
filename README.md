@@ -1,6 +1,6 @@
-<h1>Hi 👋, I'm Aditya</h1>
+<tt><h1>Hi 👋, I'm Aditya</h1>
 
-![](https://komarev.com/ghpvc/?username=aadityaa-23&color=blue)
+![](https://komarev.com/ghpvc/?username=aadityaa-23&color=red)
 
 
 <!--
