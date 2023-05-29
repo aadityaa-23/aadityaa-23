@@ -1,8 +1,5 @@
-<tt><h1>Hi 👋, I'm Aditya</h1>
-
+<h1 style="font-family:Mona Sans;">Hi 👋, I'm Aditya</h1>
 ![](https://komarev.com/ghpvc/?username=aadityaa-23&color=red)
-
-
 <!--
 **aadityaa-23/aadityaa-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
